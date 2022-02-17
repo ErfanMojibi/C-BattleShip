@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/Desktop/PROJECT/Source/main.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+windows.h
+-
+ctype.h
+-
+time.h
+-
+
